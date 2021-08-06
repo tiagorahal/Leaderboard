@@ -1,4 +1,4 @@
-import myGame from './Game.js';
+import myGame from './game.js';
 
 const scoreList = document.querySelector('.score-list');
 const inputName = document.querySelector('.input-name');
