@@ -14,6 +14,8 @@ This is a Leaderboard created using all the concepts teached at Microverse
 
 ## Getting started
 
+[Live Link](https://tiagorahal.github.io/Leaderboard/)
+
 ### Prerequisites
 
 - Browser (Google Chrome, Mozilla Firefox, Safari or any other browser)
