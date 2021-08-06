@@ -35,8 +35,10 @@ Run the following commands in the terminal in the next order:
 - Step 1:
 
   run npm install
+
+  npm run build
   
-  run npm run start
+  run npm start
 
 
 ## Author
