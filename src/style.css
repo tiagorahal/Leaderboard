@@ -166,23 +166,23 @@ input {
   font-size: 1rem;
   font-weight: bold;
   color: #fff;
-  border: 2px solid #d48;
+  border: 2px solid rgb(0, 0, 0);
   background-color: transparent;
   padding: 0.5rem;
 }
 
 .btn {
   padding: 0.5rem;
-  border: 2px solid #d48;
+  border: 2px solid rgb(0, 0, 0);
   font-size: 1rem;
   font-weight: bold;
-  color: #d48;
+  color: rgb(194, 74, 128);
   background-color: transparent;
 }
 
 .btn:hover {
   color: #448;
-  background-color: #d48;
+  background-color: rgb(0, 0, 0);
 }
 
 .container {
@@ -220,7 +220,7 @@ input {
 .score-list {
   max-height: 60vh;
   overflow-y: auto;
-  border: 2px solid #d48;
+  border: 2px solid rgb(0, 0, 0);
 }
 
 .score-item {
@@ -229,7 +229,7 @@ input {
   padding: 0.5rem 1rem;
   text-transform: uppercase;
   font-weight: bold;
-  color: #d48;
+  color: rgb(0, 0, 0);
 }
 
 .item-shade {
